@@ -2,7 +2,7 @@
 neatROM is a replacement circuit for 24 &amp; 28 pin 8bit ROMs used in retro computers.\
 It started as a basic flash based 2364 & 23128 replacement PCB. The idea was to have a neat design like my other projects neapPLA, neat8701 & neatSRAM. All the components are on the bottom side.\
 Then I got the idea to add my Switchless JiffyDOS circuit to them. Feature creep kicked in so the current circuit got also features like reprogrammability, jumper selectable banks & VIC-20 character ROM support.  
-INSERT IMAGE HERE
+IN
 
 The 24pin version is called neatROM 2364. It supports:
 - Use like a generic 2332 or 2364 replacement ROM with 14 jumper selectable 4/8kB banks.
