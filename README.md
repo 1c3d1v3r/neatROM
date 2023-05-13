@@ -12,7 +12,7 @@ The 24pin version is called neatROM 2364. It supports:
 - Replace VIC-20 character ROM. Requires changing a solder short.
 
 
-The 28pin version is called neatROM 23258. It supports:
+The 28pin version is called neatROM 23256. It supports:
 - Use like a generic 2764, 23128 or 23256 replacement ROM with 4 jumper selectable 16/32kB banks.
 - Reprogrammable with an adapter. Pogo pins interface with missing pins like WE, OE, A14-16.
 - Switchless JiffyDOS. Switch between two different kernals with the Restore-key.
