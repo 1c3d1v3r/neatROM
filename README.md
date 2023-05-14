@@ -13,7 +13,7 @@ The 24pin version is called neatROM 2364. It supports:
 
 
 The 28pin version is called neatROM 23256. It supports:
-- Use like a generic 2764, 23128 or 23256 replacement ROM with 4 jumper selectable 16/32kB banks.
+- Use like a generic 2764, 23128 or 23256 replacement ROM. 8 jumper selectable 16kB banks or 4 jumper selectable 32kB banks.
 - Reprogrammable with an adapter. Pogo pins interface with missing pins like WE, OE, A14-16.
 - Switchless JiffyDOS. Switch between two different kernals with the Restore-key.
 - anyROM. Use only one neatROM 23256 in a short motherboard C64 and replace missing character ROMs with a connection to the character ROM CS signal.
