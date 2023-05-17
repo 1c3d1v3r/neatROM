@@ -4,7 +4,7 @@ It started as a basic flash based 2364 & 23128 replacement PCB. The idea was to 
 Then I got the idea to add my Switchless JiffyDOS circuit to them. Feature creep kicked in so the current circuit got also features like reprogrammability, jumper selectable banks & VIC-20 character ROM support.  
 <img src="/images/neatROM_2364.PNG" width="350">
 
-###The 24pin version is called neatROM 2364. It supports:
+### The 24pin version is called neatROM 2364. It supports:
 - Use like a generic 2332 or 2364 replacement ROM with 14 jumper selectable 4/8kB banks.
 - Reprogrammable with an adapter. Pogo pins interface with missing pins like WE, OE, A13-16.
 - Switchless JiffyDOS. Switch between two different kernals with the Restore-key.
@@ -12,7 +12,7 @@ Then I got the idea to add my Switchless JiffyDOS circuit to them. Feature creep
 - Replace VIC-20 character ROM. Requires changing a solder short.
 <img src="/images/neatROM_23256.PNG" width="408">
 
-###The 28pin version is called neatROM 23256. It supports:\
+### The 28pin version is called neatROM 23256. It supports:\
 - Use like a generic 2764, 23128 or 23256 replacement ROM. 8 jumper selectable 16kB banks or 4 jumper selectable 32kB banks.\
 - Reprogrammable with an adapter. Pogo pins interface with missing pins like WE, OE, A14-16.\
 - Switchless JiffyDOS. Switch between two different kernals with the Restore-key.\
