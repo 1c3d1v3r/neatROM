@@ -11,6 +11,7 @@ The 24pin version is called neatROM 2364. It supports:
 - anyROM. Use only one neatROM 2364 in a C64 or VIC20 and replace missing ROMs with a connection to he missing ROM CS signal. In long motherboard C64 you can replace all 3 ROMs (Basic, Kernal, Character) with one neatROM 2364. In VIC-20 you can replace both Kernal & Basic ROMS with one neatROM 2364.
 - Replace VIC-20 character ROM. Requires changing a solder short.
 <img src="/images/neatROM_23256.PNG" width="350">
+
 The 28pin version is called neatROM 23256. It supports:\
 - Use like a generic 2764, 23128 or 23256 replacement ROM. 8 jumper selectable 16kB banks or 4 jumper selectable 32kB banks.\
 - Reprogrammable with an adapter. Pogo pins interface with missing pins like WE, OE, A14-16.\
