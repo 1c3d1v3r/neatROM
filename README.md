@@ -20,6 +20,9 @@ Then I got the idea to add my Switchless JiffyDOS circuit to them. Feature creep
 - Switchless JiffyDOS for VIC-20, C64 & C128. Switch between two different kernals with the Restore-key.
 - anyROM. Use only one neatROM 23256 in a short motherboard C64 and replace missing character ROMs with a connection to the character ROM CS signal. Use in C128 under study.
 
-###See guides for further infomation:
+### See guides for further infomation:
 [neatROM guide](docs/neatROM_guide.pdf)
 programming adapter guide
+
+### Licence
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title">neatROM</span> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/1c3d1v3r/">Pasi Lassila</a> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
