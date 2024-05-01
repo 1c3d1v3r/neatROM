@@ -1,8 +1,6 @@
 <img src="/images/neatROM_programming_adapter_in_programmer_no_BG.png" width="408">
 
-
-Gerber files are available [HERE](https://github.com/1c3d1v3r/neatROM/blob/main/programming_adapter/gerbers/PCB_R3.zip) for the PCB.
-
+Gerber files are available [HERE](https://github.com/1c3d1v3r/neatROM/blob/main/programming_adapter/gerbers/PCB_R3.zip) for the PCB. Test probe alignment jig gerbers coming soon.
 
 ## Assembly
 
