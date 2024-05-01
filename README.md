@@ -1,3 +1,5 @@
+**Notice: This repo is a work in progress. It is released unfinished for test users. It is updated quite often in the next few weeks.**
+
 ## neatROM
 neatROM is a replacement circuit for 24 &amp; 28 pin 8bit ROMs used in retro computers.\
 It started as a basic flash based 2364 & 23128 replacement PCB. The idea was to have a neat design like my other projects neapPLA, neat8701 & neatSRAM. All the components are on the bottom side.\
