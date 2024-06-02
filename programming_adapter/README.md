@@ -37,8 +37,8 @@ Lastly solder the test probes. Place the test probe alignment tool into one of t
 
 ## Gerber files
 
-Programming adapter gerber files are available [HERE](https://github.com/1c3d1v3r/neatROM/blob/main/programming_adapter/gerbers/PCB_R3.zip) 
+Programming adapter gerber files are available [HERE](https://github.com/1c3d1v3r/neatROM/raw/main/programming_adapter/gerbers/PCB_R3.zip) 
 and test probe alignment tool files are available
-[HERE](https://github.com/1c3d1v3r/neatROM/blob/main/programming_adapter/gerbers/Test_probe_alignment_tool_R1.zip).
+[HERE](https://github.com/1c3d1v3r/neatROM/raw/main/programming_adapter/gerbers/Test_probe_alignment_tool_R1.zip).
 
 
