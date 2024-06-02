@@ -22,7 +22,7 @@ The idea was to have a neat design like my other projects neatPLA, neat8701 & ne
 
 ### Other information
 [neatROM PDF guide](docs/neatROM_guide.pdf)\
-[neatROM Programming Adapter](https://github.com/1c3d1v3r/neatROM/tree/main/programming_adapter)
+[neatROM Programming Adapter](https://github.com/1c3d1v3r/neatROM/tree/main/programming_adapter)\
 [ROM & Flash images](https://github.com/1c3d1v3r/neatROM/blob/main/ROMs/C64/readme.md)
 
 ### Licence
