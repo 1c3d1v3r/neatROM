@@ -23,5 +23,6 @@ The idea was to have a neat design like my other projects neatPLA, neat8701 & ne
 ### Other information
 [neatROM PDF guide](docs/neatROM_guide.pdf)\
 [neatROM Programming Adapter](https://github.com/1c3d1v3r/neatROM/tree/main/programming_adapter)
+[ROM & Flash images](https://github.com/1c3d1v3r/neatROM/blob/main/ROMs/C64/readme.md)
 ### Licence
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title">neatROM</span> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/1c3d1v3r/">Pasi Lassila</a> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
