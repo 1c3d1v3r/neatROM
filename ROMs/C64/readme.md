@@ -22,3 +22,10 @@ neatROM 2364 flash image for C64 long board (see pdf guide chapter 5.2):
 
 neatROM 23256 flash image for C64 short board (see pdf guide chapter 5.3):
 - [C64_short_board_option_1.bin](https://plazma.kapsi.fi/C64/neatROM/C64_short_board_option_1.bin)
+
+  ## Other
+  Empty flash images filled with ones (0xFF). Use these when combining binary files in Windows command promt or Linux command line.
+  - [empty_FF_4k.bin](https://plazma.kapsi.fi/C64/neatROM/empty_FF_4k.bin)
+  - [empty_FF_8k.bin](https://plazma.kapsi.fi/C64/neatROM/empty_FF_8k.bin)
+  - [empty_FF_16k.bin](https://plazma.kapsi.fi/C64/neatROM/empty_FF_16k.bin)
+  - [empty_FF_32k.bin](https://plazma.kapsi.fi/C64/neatROM/empty_FF_32k.bin)
