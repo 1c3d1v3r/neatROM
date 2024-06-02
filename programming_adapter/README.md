@@ -8,8 +8,6 @@ Programming have been tested with a TL866-II programmer with the Xgpro software.
 
 <img src="/images/Xgpro_pin_detect.PNG" width="800">
 
-Gerber files are available [HERE](https://github.com/1c3d1v3r/neatROM/blob/main/programming_adapter/gerbers/PCB_R3.zip) for the PCB. Test probe alignment jig gerbers coming soon.
-
 ## Assembly
 
 Programming adapter part list:
@@ -36,3 +34,7 @@ Pin headers J1 & J2 are assembled from the bottom side.
 Lastly solder the test probes. Place the test probe alignment tool into one of the IC sockets. Place the test probes from bottom side of the programming adapter PCB. Align the test probe straight into the alignment tool hole. Solder the test probe so the spring-loaded pin is at the same level as the alignment tool top surface. Repeat for other IC socket. Test probes are inside a receptacle and are replaceable. Just pull out the probe and replace it if needed. The model code is in the part list.
 
 <img src="/images/Programming adapter top.PNG" width="408"><img src="/images/Programming adapter bot.PNG" width="408">
+
+## Gerber files
+
+Programming adapter gerber files are available  [HERE](https://github.com/1c3d1v3r/neatROM/blob/main/programming_adapter/gerbers/PCB_R3.zip) and test probe alignment tool files are available [HERE](https://github.com/1c3d1v3r/neatROM/blob/main/programming_adapter/gerbers/Test probe alignment tool R1.zip).
