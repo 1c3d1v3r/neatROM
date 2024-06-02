@@ -1,4 +1,12 @@
+# neatROM programming adapter
+
 <img src="/images/neatROM_programming_adapter_in_programmer_no_BG.png" width="408">
+
+Use a neatROM programming adapter to update the content of the flash IC. Remove all jumpers and connectors from the neatROM pin header. The flat cable must be in J6 pin header if neatROM 2364 is programmed and in J5 pin header if neatROM 23256 is programmed. Move the flat cable to the correct header if needed. Connect the flat cable other end to the neatROM pin header. Push the neatROM into the programming adapter IC socket. There are separate IC sockets for both neatROM models. A 24-pin socket for neatROM 2364 and a 28-pin socket for neatROM23256. Connect only one neatROM at once. neatROM 2364 must have the bottom side solder bridge in the D position.
+
+Programming have been tested with a TL866-II programmer with the Xgpro software. Select IC SST39SF010A TSOP32. Deselect “Pin Detect” from the options.
+
+<img src="/images/Xgpro_pin_detect.PNG" width="800">
 
 Gerber files are available [HERE](https://github.com/1c3d1v3r/neatROM/blob/main/programming_adapter/gerbers/PCB_R3.zip) for the PCB. Test probe alignment jig gerbers coming soon.
 
